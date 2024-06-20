@@ -16,7 +16,7 @@ header {
     justify-content: space-between;
     align-items: center;
     background-color: #f2f2f2;
-    padding: 20px 20px;
+    padding: 1% 1%;
     color: #fff;
 }
 
@@ -51,7 +51,7 @@ header nav ul li a {
 
 .main-section {
     background-color: #D9E9FC;
-    padding: 60px 20px;
+    padding: 10%;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -78,7 +78,7 @@ header nav ul li a {
 }
 
 .rooms-section {
-    padding: 40px 20px;
+    padding: 15px 20px;
     background-color: #F5F5F5;
     text-align: center;
 }
